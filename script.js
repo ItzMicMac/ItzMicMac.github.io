@@ -3,6 +3,8 @@ const GAME_URLS = [
     "https://ItzMicMac.github.io/HLCrate",
     "https://ItzMicMac.github.io/HLDes",
     "https://ItzMicMac.github.io/HLCooking",
+    "https://ItzMicMac.github.io/HLHouse",
+    "https://ItzMicMac.github.io/HLUsb",
     "https://ItzMicMac.github.io/CubicDrill"
 ]
 const GAME_NAMES = [
@@ -10,6 +12,8 @@ const GAME_NAMES = [
     "Highlife Crate Minigame",
     "Highlife Des Minigame",
     "Highlife Cooking Minigame",
+    "Highlife House Minigame",
+    "Highlife USB Minigame",
     "Cubic Drill Minigame"
 ];
 
