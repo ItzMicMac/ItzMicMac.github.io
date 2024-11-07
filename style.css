@@ -10,16 +10,17 @@
   align-items: center;
   text-decoration: none;
   font-size: 30px;
+  text-shadow: 4px 2px 4px #000000;
+  border-radius: 25px;
+  box-shadow: 4px 2px 4px #000000;
+  
 }
 
 body{
   background-color: #535050;
   color: white;
-}
-
-.link a{
-  text-decoration: none;
-  color: white;
+  text-shadow: 4px 2px 4px #000000;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .app-container{
@@ -35,4 +36,8 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
+  font-size: 36px;
+  border: 2px solid black;
+  border-radius: 20px;
+  box-shadow: 4px 2px 4px #000000;
 }
