@@ -2,7 +2,7 @@ const GAME_URLS = [
     "https://ItzMicMac.github.io/MemoryMinigame",
     "https://ItzMicMac.github.io/HLCrate",
     "https://ItzMicMac.github.io/HLDes",
-    "https://ItzMicMac.github.io/HLCooking",
+    "https://ItzMicMac.github.io/HLRVCooking",
     "https://ItzMicMac.github.io/HLHouse",
     "https://ItzMicMac.github.io/HLUsb",
     "https://ItzMicMac.github.io/CubicDrill"
